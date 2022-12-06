@@ -19,7 +19,7 @@
   "homepage": "https://github.com/juunegreiros/nodejs-api-rest#readme",
   "dependencies": {
     "consign": "^0.1.6",
-    "express": "^4.17.1"
+    "express": "^4.18.2"
   },
   "devDependencies": {
     "nodemon": "^1.19.2"
